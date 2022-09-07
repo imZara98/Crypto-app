@@ -1,0 +1,22 @@
+.weather-app{
+    background-image: url('../assets/pictures/cold-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    transition: 0.4s ease;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+.warm{
+    background-image: url('../assets/pictures/warm-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    transition: 0.4s ease;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
